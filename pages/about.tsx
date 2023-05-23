@@ -42,9 +42,9 @@ export default function About() {
               developer.
               <br />
               <br />
-              I’ve always been inspired by the tech industry, computers and
-              software. In my spare time I explore adjacent areas such as art,
-              photography, philosophy and a bit of music.
+              I’ve always been inspired by the tech industry, innovation and
+              nature. In my spare time I explore adjacent areas such as art,
+              philosophy and a bit of music.
               <br />
               <br />
               To know more about my experience, skill, education and other
