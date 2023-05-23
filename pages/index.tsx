@@ -36,17 +36,6 @@ export default function Home() {
           </div>
         </section>
       </div>
-
-      {/* tech stack */}
-      <div className='tech-stack-section'>
-        <div className='content'>
-          <div className={styles.header}>
-            <p className={styles.subtitle}>
-              I have experience with the following tech stacks
-            </p>
-          </div>
-        </div>
-      </div>
     </Layout>
   );
 }
