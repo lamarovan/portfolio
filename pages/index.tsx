@@ -120,7 +120,7 @@ export default function Home() {
                 />
               </div>
 
-              <div className='group relative flex h-48 items-end rounded-lg md:col-span-2 md:h-60'>
+              <div className='group relative flex h-48 items-end overflow-hidden rounded-lg md:col-span-2 shadow-lg md:h-60'>
                 <img
                   src='https://bigbear.ai/wp-content/uploads/2021/08/PostgreSQL-logo.webp'
                   loading='lazy'
