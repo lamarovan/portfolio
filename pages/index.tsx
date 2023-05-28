@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import Link from 'next/link';
 import { Inter } from 'next/font/google';
 import { WordAnimation } from '../components/wordanimation/wordanimation';
