@@ -43,7 +43,7 @@ export default function Home() {
         <div className='content'>
           <div className='pt-20'>
             <h2 className='headingM weightMedium'>
-              Some of the tech stacks I've worked with
+              Some of the tech stacks I&apos;ve worked with
             </h2>
 
             {/* gallery section */}
